@@ -1,0 +1,19 @@
+
+
+---[rtfm]----
+
+* uppercase
+* lowercase
+* number
+* symboles
+* all
+
+https://stackoverflow.com/questions/11571779/java-force-jtextfield-to-be-uppercase-only
+
+---[youtube]----
+
+https://www.youtube.com/watch?v=az6SehZyY7U&list=PL59LTecnGM1NRUyune3SxzZlYpZezK-oQ
+
+
+
+
