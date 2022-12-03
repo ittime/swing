@@ -22,7 +22,7 @@ public class Dog2 extends Animal2 {
 		fido.setName("Fido");
 		System.out.println(fido.getName());
 
-		fido
+//		fido
 		
 		speakAnimal(fido);
 		AnimalType(fido);

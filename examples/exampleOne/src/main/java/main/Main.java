@@ -17,7 +17,7 @@ public class Main {
 		
 //		new DocFilter(); //bug: can't use the button properly: delete, backslash.
 		
-//		new Lesson20();
+		new Lesson20();
 //		new Lesson21();
 //		new Lesson22();
 		
